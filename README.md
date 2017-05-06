@@ -1,1 +1,1 @@
-# ohters
+# others
